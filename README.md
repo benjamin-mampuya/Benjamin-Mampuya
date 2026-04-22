@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://benmampuya.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=I'm+Ben+Mampuya+%F0%9F%91%8B;D%C3%A9veloppeur+Web+Front-End+%F0%9F%92%BB;Cr%C3%A9ateur+d'Interfaces+Modernes+%F0%9F%9A%80;Data+Analyst+%26+IT+Pro+%F0%9F%93%8A;Passionn%C3%A9+par+la+Tech+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=I'm+Ben+Mampuya;D%C3%A9veloppeur+Web+Front-End;Cr%C3%A9ateur+d'Interfaces+Modernes;Data+Analyst+%26+IT+Pro;Passionn%C3%A9+par+la+Tech" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">Bienvenue sur mon profil GitHub ! ✨</h3>
+<h3 align="center">Bienvenue sur mon profil GitHub !</h3>
 
 <p align="center">
   <a href="https://benmampuya.netlify.app/"><strong>Explorez mon Portfolio »</strong></a>
