@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://benmampuya.netlify.app/">
+  <a href="https://benmampuya.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=I'm+Ben+Mampuya;D%C3%A9veloppeur+Web+Front-End;Cr%C3%A9ateur+d'Interfaces+Modernes;Data+Analyst+%26+IT+Pro;Passionn%C3%A9+par+la+Tech" alt="Typing SVG" />
   </a>
 </div>
