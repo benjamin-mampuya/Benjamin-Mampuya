@@ -7,7 +7,7 @@
 <h3 align="center">Bienvenue sur mon profil GitHub !</h3>
 
 <p align="center">
-  <a href="benmampuya.vercel.app/"><strong>Explorez mon Portfolio »</strong></a>
+  <a href="https://benmampuya.vercel.app/"><strong>Explorez mon Portfolio »</strong></a>
 </p>
 
 ---
